@@ -8,7 +8,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "module"
-excluded-patches = ""
 included-patches = "client-spoof external-downloads hide-ads minimized-playback return-youtube-dislike sponsorblock swipe-controls video-ads"
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
